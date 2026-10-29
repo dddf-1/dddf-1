@@ -1,37 +1,33 @@
-## dddf-1 / 이용주
+## 이용주 | Cloud / Backend Engineer
 
-안녕하세요! 🙋‍♂️ 백엔드/클라우드 개발자를 목표로 공부하고 있습니다.
-클라우드와 서버 개발에 관심이 많고, 꾸준히 성장하는 개발자가 되고 싶습니다. 
+서비스가 멈추는 순간을 숫자로 확인하고, 원인을 찾아 다시 멈추지 않게 만드는 일을 합니다.
 
-<br />
-<br />
-<br />
+### Projects
 
-## My Values
-☁️ 클라우드 기술로 더 나은 서비스를 만들고 싶습니다<br />
-💻 백엔드와 인프라를 함께 이해하는 개발자를 지향합니다<br />
-📚 매일 조금씩 성장하는 것을 즐깁니다<br />
+**맴매** | 음식점 점주를 위한 AI 매출 분석, 운영 지원 서비스  
+POS 매출 파일을 올리면 매장 매출을 분석하고 AI가 운영 개선안을 제안합니다.  
+클라우드 담당: ECS Fargate 전환, DB 이전과 HA, CI/CD, 모니터링  
+🔗 [KTB4-7th-Cloud](https://github.com/100-hours-a-week/KTB4-7th-Cloud)
 
-<br />
-<br />
-<br />
+**howareyoujake** | 스포츠 커뮤니티 서비스  
+게시글, 댓글, 좋아요, 검색을 제공하는 커뮤니티 백엔드입니다.  
+개인 프로젝트: Spring Boot 백엔드 개발, Kubernetes 배포  
+🔗 [community_crud](https://github.com/dddf-1/community_crud) / [community-gitops](https://github.com/dddf-1/community-gitops)
 
-## Skills
-#### I use it often.
-<div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
+**Settle Agent** | 국내 체류 외국인 금융, 행정 정착 AI 에이전트 (KTB AI 해커톤)  
+여권, 외국인등록증 이미지를 AI가 읽어 체류 외국인에게 맞춤 금융, 행정 안내를 제공합니다.  
+클라우드 담당: AWS 인프라, CI/CD 구축  
+🔗 [settle-agent](https://github.com/ktb-settle-agent/settle-agent)
 
-#### I've used it before.
-<div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</div>
+### Tech
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
